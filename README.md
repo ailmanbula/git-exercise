@@ -1,2 +1,2 @@
 # git-exercise
-we are trying
+We just start
